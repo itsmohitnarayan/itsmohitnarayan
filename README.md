@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **RUST**
 
-- 💬 Ask me about **Penetration Testing, Ethical Hacking, Cyber Security, C , C++, Python, Solidity , Rust.**
+- 💬 Ask me about **Penetration Testing, Bug Bounty, Ethical Hacking, Cyber Security, C , C++, Python, Solidity , Rust.**
 
 - 📫 How to reach me **mohit724196@gmail.com**
 
