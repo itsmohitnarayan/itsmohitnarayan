@@ -16,6 +16,10 @@
 
 - ⚡ Fun fact **Down To Eath**
 
+- 📔 Leet Code **https://leetcode.com/itsmohitnarayan/**
+
+- 📕 Hacker Rank **https://www.hackerrank.com/profile/mohit724196**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mohit___narayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohit___narayan" height="30" width="40" /></a>
