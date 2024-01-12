@@ -14,11 +14,11 @@
 
 - 📫 How to reach me **mohit724196@gmail.com**
 
-- ⚡ Fun fact **Down To Eath**
-
 - 📔 Leet Code **https://leetcode.com/itsmohitnarayan/**
 
 - 📕 Hacker Rank **https://www.hackerrank.com/profile/mohit724196**
+
+- ⚡ Fun fact **Down To Eath**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
