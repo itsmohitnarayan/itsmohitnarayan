@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmohitnarayan" alt="itsmohitnarayan" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/itsmohitnarayan" target="blank"><img src="https://img.shields.io/twitter/follow/mohit___narayan?logo=twitter&style=for-the-badge" alt="itsmohitnarayan" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsmohitnarayan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmohitnarayan?logo=twitter&style=for-the-badge" alt="itsmohitnarayan" /></a> </p>
 
 - 🌱 I’m currently learning **RUST**
 
