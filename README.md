@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kumar Mohit</h1>
 <h3 align="center">A passionate Software Developer and Security Researcher from India</h3>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="Your Image Badge" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmohitnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="itsmohitnarayan" /> </p>
 
