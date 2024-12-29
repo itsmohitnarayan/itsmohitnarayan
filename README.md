@@ -15,6 +15,8 @@
 
 - 📫 How to reach me **mohit724196@gmail.com**
 
+- 📕 TryHackMe **https://tryhackme.com/r/p/itsmohitnarayan**
+
 - 📔 Leet Code **https://leetcode.com/itsmohitnarayan/**
 
 - 📕 Hacker Rank **https://www.hackerrank.com/profile/mohit724196**
