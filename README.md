@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/itsmohitnarayan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmohitnarayan?logo=twitter&style=for-the-badge" alt="itsmohitnarayan" /></a> </p>
 
-- 🌱 I’m currently Serving as **OPEN SOURCE CONTRIBUTOR**
+- 🌱 I’m currently Serving as **Open Source Contributor**
 
 - 💬 Ask me about **Penetration Testing, Bug Bounty, Ethical Hacking, Cyber Security, C , C++, Python, Solidity , Rust, Artificial Intelligence, Machine Learning.**
 
