@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kumar Mohit</h1>
+<h1 align="center">Hi 👋, I'm Mohit Narayan</h1>
 <h3 align="center">A passionate Software Developer and Security Researcher from India</h3>
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="Your Image Badge" />
