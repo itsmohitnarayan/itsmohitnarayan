@@ -11,6 +11,11 @@
   <a href="https://www.credly.com/badges/173b0327-fe4d-44db-9765-45aa18f467fb/public_url"><img src="https://img.shields.io/badge/Linux%20Foundation-Kata%20Containers%20Contributor-0071C5?style=flat-square&labelColor=1c2128" alt="Linux Foundation Kata Containers Contributor" /></a>
   <a href="https://ieeexplore.ieee.org/document/10914268"><img src="https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&labelColor=1c2128" alt="IEEE Xplore publication" /></a>
   <a href="https://www.linkedin.com/in/mohitnarayan"><img src="https://img.shields.io/badge/LinkedIn-mohitnarayan-0A66C2?style=flat-square&labelColor=1c2128" alt="LinkedIn" /></a>
+  <img src="https://komarev.com/ghpvc/?username=itsmohitnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/itsmohitnarayan"><img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="TryHackMe profile badge for itsmohitnarayan" /></a>
 </p>
 
 <p align="center"><sub>Kumar Mohit &nbsp;·&nbsp; also known as Mohit Narayan &nbsp;·&nbsp; India</sub></p>
@@ -157,12 +162,4 @@ that change of approach.
   <a href="https://www.credly.com/badges/173b0327-fe4d-44db-9765-45aa18f467fb/public_url">Credly</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/itsmohitnarayan">X</a> &nbsp;·&nbsp;
   <a href="mailto:mohit724196@gmail.com">mohit724196@gmail.com</a>
-</p>
-
-<p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="TryHackMe profile badge for itsmohitnarayan" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsmohitnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
