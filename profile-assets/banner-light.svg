@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 210" width="1000" height="210" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Kumar Mohit, Security Engineer. Diagram: untrusted requests are stopped at a trust boundary; one passes through a gap in the check and reaches the system.">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0969da" stop-opacity="0"/>
+      <stop offset="55%" stop-color="#0969da" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#0969da" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="999" height="209" rx="14" fill="#ffffff" stroke="#d1d9e0"/>
+
+  <text x="52" y="106" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="52" font-weight="700" fill="#1f2328" letter-spacing="-0.6">Kumar Mohit</text>
+  <text x="55" y="140" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="18" font-weight="600" fill="#0969da" letter-spacing="2.6">SECURITY ENGINEER</text>
+  <line x1="52" y1="158" x2="400" y2="158" stroke="url(#fade)" stroke-width="1"/>
+
+  <text x="612" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#59636e" letter-spacing="1.4">UNTRUSTED</text>
+  <text x="867" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#59636e" letter-spacing="1.4">SYSTEM</text>
+
+  <g fill="none" stroke="#59636e" stroke-width="1.5" opacity="0.75">
+    <circle cx="608" cy="70" r="5.5"/><circle cx="642" cy="102" r="5.5"/>
+    <circle cx="602" cy="150" r="5.5"/><circle cx="650" cy="178" r="5.5"/>
+    <circle cx="578" cy="122" r="5.5"/>
+  </g>
+  <g stroke="#59636e" stroke-width="1.3" opacity="0.45" stroke-linecap="round">
+    <path d="M617 72 L742 88"/><path d="M651 103 L742 105"/>
+    <path d="M611 149 L742 148"/><path d="M659 177 L742 166"/>
+  </g>
+
+  <g stroke="#d1242f" stroke-width="2.2" stroke-linecap="round">
+    <path d="M752 40 L752 110" stroke-dasharray="5 5"/>
+    <path d="M752 146 L752 184" stroke-dasharray="5 5"/>
+    <path d="M744 110 L760 110"/><path d="M744 146 L760 146"/>
+  </g>
+
+  <path d="M651 128 L790 128" stroke="#d1242f" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="651" cy="128" r="5.5" fill="#d1242f" stroke="none"/>
+  <path d="M783 121 L794 128 L783 135" fill="none" stroke="#d1242f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="#f6f8fa" stroke="#d1d9e0">
+    <rect x="800" y="44"  width="28" height="28" rx="5"/><rect x="838" y="44"  width="28" height="28" rx="5"/><rect x="876" y="44"  width="28" height="28" rx="5"/><rect x="914" y="44"  width="28" height="28" rx="5"/>
+    <rect x="800" y="80"  width="28" height="28" rx="5"/><rect x="838" y="80"  width="28" height="28" rx="5"/><rect x="876" y="80"  width="28" height="28" rx="5"/><rect x="914" y="80"  width="28" height="28" rx="5"/>
+    <rect x="800" y="152" width="28" height="28" rx="5"/><rect x="838" y="152" width="28" height="28" rx="5"/><rect x="876" y="152" width="28" height="28" rx="5"/><rect x="914" y="152" width="28" height="28" rx="5"/>
+  </g>
+  <g fill="#f6f8fa" stroke="#d1242f" stroke-width="1.8">
+    <rect x="800" y="114" width="28" height="28" rx="5"/><rect x="838" y="114" width="28" height="28" rx="5"/><rect x="876" y="114" width="28" height="28" rx="5"/><rect x="914" y="114" width="28" height="28" rx="5"/>
+  </g>
+
+  <text x="752" y="202" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" fill="#59636e" letter-spacing="1.4">TRUST BOUNDARY</text>
+</svg>

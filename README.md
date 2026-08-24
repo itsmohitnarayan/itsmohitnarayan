@@ -1,169 +1,168 @@
-<h1 align="center">Hi 👋, I'm Mohit Narayan</h1>
-<h3 align="center">A passionate Security Engineer from India</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="profile-assets/banner-light.svg">
+  <img src="profile-assets/banner-light.svg" alt="Kumar Mohit, Security Engineer: application security, container hardening, DevSecOps" width="1000">
+</picture>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="Your Image Badge" />
+<p align="center"><sub>Four requests are stopped at the trust boundary. One passes through a gap in the check and reaches the system. That gap is <a href="#cve-2026-52021">CVE-2026-52021</a>.</sub></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmohitnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="itsmohitnarayan" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmohitnarayan" alt="itsmohitnarayan" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/itsmohitnarayan" target="blank"><img src="https://img.shields.io/twitter/follow/itsmohitnarayan?logo=twitter&style=for-the-badge" alt="itsmohitnarayan" /></a> </p>
-
-- 🌱 I’m currently Serving as **Open Source Contributor**
-
-- 💬 Ask me about **Penetration Testing, Bug Bounty, Ethical Hacking, Cyber Security, C , C++, Python, Solidity , Rust, Artificial Intelligence, Machine Learning.**
-
-- 📫 How to reach me **mohit724196@gmail.com**
-
-- 📕 TryHackMe **https://tryhackme.com/r/p/itsmohitnarayan**
-
-- 📔 Leet Code **https://leetcode.com/itsmohitnarayan/**
-
-- 📕 Hacker Rank **https://www.hackerrank.com/profile/mohit724196**
-
-- ⚡ Fun fact **Down To Eath**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itsmohitnarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohit___narayan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohitnarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohitnarayan" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit___kumar____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit___kumar____" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.cve.org/CVERecord?id=CVE-2026-52021"><img src="https://img.shields.io/badge/CVE--2026--52021-CWE--306-B31B1B?style=flat-square&labelColor=1c2128" alt="CVE-2026-52021" /></a>
+  <a href="https://www.credly.com/badges/173b0327-fe4d-44db-9765-45aa18f467fb/public_url"><img src="https://img.shields.io/badge/Linux%20Foundation-Kata%20Containers%20Contributor-0071C5?style=flat-square&labelColor=1c2128" alt="Linux Foundation Kata Containers Contributor" /></a>
+  <a href="https://ieeexplore.ieee.org/document/10914268"><img src="https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&labelColor=1c2128" alt="IEEE Xplore publication" /></a>
+  <a href="https://www.linkedin.com/in/mohitnarayan"><img src="https://img.shields.io/badge/LinkedIn-mohitnarayan-0A66C2?style=flat-square&labelColor=1c2128" alt="LinkedIn" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="40" alt="aftereffects logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="40" alt="eslint logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="40" alt="nuxtjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="40" alt="opengl logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg" height="40" alt="premierepro logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="40" alt="redhat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" alt="solidity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
+<p align="center"><sub>Kumar Mohit &nbsp;·&nbsp; also known as Mohit Narayan &nbsp;·&nbsp; India</sub></p>
 
+---
 
-<div align="center">
-  <img height="350" src="https://media1.tenor.com/m/dQZN47-OBasAAAAd/arabic-gamer-hacker-meme.gif"  />
-</div>
+Most of my work sits where untrusted code meets the system running it: secure code review,
+hardening containers that execute other people's code, and wiring scanners into CI so problems
+fail the build instead of reaching production.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsmohitnarayan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itsmohitnarayan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=itsmohitnarayan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+Security Engineer at **[Appfend](https://appfend.com)**. Founder of **Samyora**, where I run
+engineering alongside company operations: incorporation, compliance, invoicing, and hiring.
 
+## CVE-2026-52021
 
-<div style="text-align: center;">
-  <h3 align="left">Support:</h3>
-  <p><a href="https://razorpay.me/@nexishub">
-    <img align="centre" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="itsmohitnarayan" />
-  </a></p>
-</div>
+<sub>**CWE-306**, Missing Authentication for a Critical Function &nbsp;·&nbsp; [code100x/cms](https://github.com/code100x/cms) &nbsp;·&nbsp; assigned by MITRE, published August 2026</sub>
+
+The Next.js middleware guarding the mobile API tested only that an `Auth-Key` header was
+*present*, never that it was *correct*:
+
+```ts
+if (req.headers.get('Auth-Key')) {
+  return NextResponse.next();   // presence is not validity
+}
+```
+
+Any arbitrary value passed the check. Handlers behind that guard then trusted a client-supplied
+header to decide *who* the caller was, so a fail-open gate plus downstream trust in client input
+chained into impersonation and unauthenticated reads of protected data.
+
+```mermaid
+flowchart LR
+    A["Attacker<br/>Auth-Key: anything"] --> B{"withMobileAuth<br/>middleware"}
+    B -->|"header is present<br/>so the check passes"| C["Route handler"]
+    B -.->|"value is never compared<br/>against a secret"| F["CWE-306<br/>fail-open"]
+    C -->|"trusts client-supplied<br/>identity header"| D[("Protected<br/>course data")]
+    C --> E["Impersonate<br/>any user"]
+```
+
+**[Read the full CVE-2026-52021 disclosure writeup](https://gist.github.com/itsmohitnarayan/e456399f083130962bab6c710f208437)**
+
+## Upstream contributions
+
+| Project | Contribution | Status |
+|---|---|---|
+| **[kata-containers](https://github.com/kata-containers/kata-containers)**<br/><sub>7.7k ★ · OpenInfra Foundation</sub> | Firecracker VMM upgrade v1.8.0 to v1.12.1, validated end to end on a K3s cluster through the `kata-fc` RuntimeClass | [#11627](https://github.com/kata-containers/kata-containers/pull/11627)<br/>**merged** |
+| **[kata-containers](https://github.com/kata-containers/kata-containers)** | Reported memory and CPU oversubscription failure on K3s v1.32.6 | [#11617](https://github.com/kata-containers/kata-containers/issues/11617)<br/>filed |
+| **[AutoMQ](https://github.com/AutoMQ/automq)**<br/><sub>9.6k ★ · Apache-licensed</sub> | CWE-129 array bounds defect in `ByteBufAlloc.java` found via static analysis; fixed the off-by-one causing a runtime `ArrayIndexOutOfBoundsException` | [#3102](https://github.com/AutoMQ/automq/pull/3102)<br/>**merged** |
+| **[AutoMQ](https://github.com/AutoMQ/automq)** | Replaced deprecated `X509Certificate.getSubjectDN()` and `getIssuerDN()` with `X500Principal` equivalents | [#3283](https://github.com/AutoMQ/automq/pull/3283)<br/>open |
+| **[automq-labs](https://github.com/AutoMQ/automq-labs)** | Reported duplicate credentials and inconsistent placeholders in an OpenShift Helm values example | [#136](https://github.com/AutoMQ/automq-labs/issues/136)<br/>filed |
+
+## Selected engineering work
+
+<sub>Built at Appfend, a multi-tenant platform that runs untrusted tenant code. Descriptions are capability-level; the code is the company's.</sub>
+
+**Behavioral vulnerability validator** &nbsp;<sub>`Go` `chromedp`</sub>
+A binary that proves a vulnerability is genuinely exploitable rather than merely present. It drives
+real browser flows headlessly and runs differential analysis against vulnerable and patched builds
+of the same target, so a finding only passes when the exploit works against one and fails against
+the other.
+
+**Fail-closed LLM reverse proxy** &nbsp;<sub>`Go`</sub>
+A gateway in front of model backends that denies by default. Unknown routes and methods are
+rejected rather than forwarded, and upstream failure surfaces as a clean error instead of leaking
+the backend. The property worth having: a misconfiguration produces a closed door, not an open one.
+
+**Container hardening for untrusted workloads** &nbsp;<sub>`Docker` `ECR`</sub>
+Removed `sudo`, stripped SUID/SGID bits, restricted the validator binary to root-only, and moved
+boot secrets behind encryption so they are not readable from a compromised tenant context.
+Published the hardened base image to ECR.
+
+**LLM-as-judge code review grading** &nbsp;<sub>`Python` `Gitea`</sub>
+Automated grading of submitted pull requests against per-exercise rubrics, with a fail-safe default
+so a misconfigured grader falls back to the restrictive path instead of passing everything.
+
+**DevSecOps detect-and-gate curriculum**
+Hands-on material covering SAST, SCA, SBOM, IaC scanning, secrets detection, and artifact signing,
+with a four-tier verification methodology so every exercise is proven to work before it ships.
+
+## What I work on
+
+|  |  |
+|---|---|
+| **Application security** | secure code review, threat modeling, CWE/CVE mapping, exploit path development |
+| **Container security** | hardened base images, privilege separation, Kata Containers and Firecracker microVMs, escape analysis |
+| **Supply chain** | SBOM generation, artifact signing, dependency and IaC scanning gated in CI |
+| **AI/LLM security** | sandboxing untrusted workloads next to models, prompt injection testing, secret isolation |
+
+## Tooling
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="36" alt="Go" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="36" alt="Rust" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="36" alt="Bash" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg" height="36" alt="Kubernetes" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="36" alt="Terraform" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux" />
+</p>
+
+<details>
+<summary><b>The security toolchain I actually reach for</b></summary>
+
+<br/>
+
+| | |
+|---|---|
+| **SAST / secrets** | Semgrep, Bandit, git-secrets |
+| **SCA / SBOM** | Trivy, Grype, Syft, pip-audit, OWASP Dependency-Check |
+| **IaC / images** | Checkov, TFLint, Hadolint, Cosign |
+| **Testing** | Burp Suite, Nmap, chromedp, Playwright, pytest, Hurl |
+| **Runtime** | Kata Containers, Firecracker, runc, containerd, K3s, KVM/QEMU |
+| **Cloud** | AWS: ECR, ECS, Lambda, DynamoDB, IAM cross-account AssumeRole |
+
+</details>
+
+## Research, writing, credentials
+
+| | |
+|---|---|
+| **[An Effective AI-based Model for Garbage Monitoring: An Application of Smart City](https://ieeexplore.ieee.org/document/10914268)** | IEEE CALCON 2024, IEEE Xplore |
+| **[CVE-2026-52021 authentication bypass disclosure](https://gist.github.com/itsmohitnarayan/e456399f083130962bab6c710f208437)** | 2026 |
+| **[Contributor: Kata Containers 4.0](https://www.credly.com/badges/173b0327-fe4d-44db-9765-45aa18f467fb/public_url)** | The Linux Foundation, 2026 |
+| **[Web Application Pentesting](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-89KJVILXSD.pdf)** | TryHackMe, 2024 |
+| **Ethical Hacking Essentials (EHE)** | EC-Council, 2023 |
+| **Cybersecurity Analyst Professional Certificate** | IBM, 2022 |
+| **B.Tech, Computer Science** | DRIEMS University, 2025 |
+
+## Currently
+
+Going deep on AWS security with hands-on Terraform rather than console clicking, and doing regular
+vulnerability research in container runtimes: runc, Kata Containers, containerd. Staying on one
+codebase long enough to understand it beats spraying reports across many. The CVE above came from
+that change of approach.
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohitnarayan">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://tryhackme.com/p/itsmohitnarayan">TryHackMe</a> &nbsp;·&nbsp;
+  <a href="https://www.credly.com/badges/173b0327-fe4d-44db-9765-45aa18f467fb/public_url">Credly</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/itsmohitnarayan">X</a> &nbsp;·&nbsp;
+  <a href="mailto:mohit724196@gmail.com">mohit724196@gmail.com</a>
+</p>
+
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/itsmohitnarayan.png" alt="TryHackMe profile badge for itsmohitnarayan" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itsmohitnarayan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
