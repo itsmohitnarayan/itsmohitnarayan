@@ -26,8 +26,7 @@ Most of my work sits where untrusted code meets the system running it: secure co
 hardening containers that execute other people's code, and wiring scanners into CI so problems
 fail the build instead of reaching production.
 
-Security Engineer at **[Appfend](https://appfend.com)**. Founder of **Samyora**, where I run
-engineering alongside company operations: incorporation, compliance, invoicing, and hiring.
+Security Engineer at **[Appfend](https://appfend.com)**. 
 
 ## CVE-2026-52021
 
